@@ -1,0 +1,501 @@
+date_label,rank,symbol,name,coin_id
+2018-01-01_t100,1,BTC,Bitcoin,bitcoin
+2018-01-01_t100,2,ETH,Ethereum,ethereum
+2018-01-01_t100,3,USDT,Tether,tether
+2018-01-01_t100,4,SOL,Solana,solana
+2018-01-01_t100,5,BNB,BNB,binancecoin
+2018-01-01_t100,6,DOGE,Dogecoin,dogecoin
+2018-01-01_t100,7,XRP,XRP,ripple
+2018-01-01_t100,8,USDC,USDC,usd-coin
+2018-01-01_t100,9,STETH,Lido Staked Ether,staked-ether
+2018-01-01_t100,10,ADA,Cardano,cardano
+2018-01-01_t100,11,SHIB,Shiba Inu,shiba-inu
+2018-01-01_t100,12,TRX,TRON,tron
+2018-01-01_t100,13,WSTETH,Wrapped stETH,wrapped-steth
+2018-01-01_t100,14,AVAX,Avalanche,avalanche-2
+2018-01-01_t100,15,TON,Toncoin,the-open-network
+2018-01-01_t100,16,WBTC,Wrapped Bitcoin,wrapped-bitcoin
+2018-01-01_t100,17,SUI,Sui,sui
+2018-01-01_t100,18,WETH,WETH,weth
+2018-01-01_t100,19,PEPE,Pepe,pepe
+2018-01-01_t100,20,LINK,Chainlink,chainlink
+2018-01-01_t100,21,BCH,Bitcoin Cash,bitcoin-cash
+2018-01-01_t100,22,DOT,Polkadot,polkadot
+2018-01-01_t100,23,LEO,LEO Token,leo-token
+2018-01-01_t100,24,NEAR,NEAR Protocol,near
+2018-01-01_t100,25,APT,Aptos,aptos
+2018-01-01_t100,26,WEETH,Wrapped eETH,wrapped-eeth
+2018-01-01_t100,27,LTC,Litecoin,litecoin
+2018-01-01_t100,28,UNI,Uniswap,uniswap
+2018-01-01_t100,29,USDS,USDS,usds
+2018-01-01_t100,30,CRO,Cronos,crypto-com-chain
+2018-01-01_t100,31,ICP,Internet Computer,internet-computer
+2018-01-01_t100,32,TAO,Bittensor,bittensor
+2018-01-01_t100,33,XLM,Stellar,stellar
+2018-01-01_t100,34,WIF,dogwifhat,dogwifcoin
+2018-01-01_t100,35,ETC,Ethereum Classic,ethereum-classic
+2018-01-01_t100,36,FET,Artificial Superintelligence Alliance,fetch-ai
+2018-01-01_t100,37,KAS,Kaspa,kaspa
+2018-01-01_t100,38,DAI,Dai,dai
+2018-01-01_t100,39,WBT,WhiteBIT Coin,whitebit
+2018-01-01_t100,40,POL,POL (ex-MATIC),polygon-ecosystem-token
+2018-01-01_t100,41,USDE,Ethena USDe,ethena-usde
+2018-01-01_t100,42,STX,Stacks,blockstack
+2018-01-01_t100,43,BONK,Bonk,bonk
+2018-01-01_t100,44,RENDER,Render,render-token
+2018-01-01_t100,45,XMR,Monero,monero
+2018-01-01_t100,46,OKB,OKB,okb
+2018-01-01_t100,47,AAVE,Aave,aave
+2018-01-01_t100,48,ARB,Arbitrum,arbitrum
+2018-01-01_t100,49,FIL,Filecoin,filecoin
+2018-01-01_t100,50,MNT,Mantle,mantle
+2018-01-01_t100,51,INJ,Injective,injective-protocol
+2018-01-01_t100,52,FLOKI,FLOKI,floki
+2018-01-01_t100,53,FDUSD,First Digital USD,first-digital-usd
+2018-01-01_t100,54,HBAR,Hedera,hedera-hashgraph
+2018-01-01_t100,55,VET,VeChain,vechain
+2018-01-01_t100,56,TIA,Celestia,celestia
+2018-01-01_t100,57,IMX,Immutable,immutable-x
+2018-01-01_t100,58,OP,Optimism,optimism
+2018-01-01_t100,59,FTM,Fantom,fantom
+2018-01-01_t100,60,ATOM,Cosmos Hub,cosmos
+2018-01-01_t100,61,BGB,Bitget Token,bitget-token
+2018-01-01_t100,62,RUNE,THORChain,thorchain
+2018-01-01_t100,63,WETH,Binance-Peg WETH,binance-peg-weth
+2018-01-01_t100,64,SEI,Sei,sei-network
+2018-01-01_t100,65,POPCAT,Popcat,popcat
+2018-01-01_t100,66,GRT,The Graph,the-graph
+2018-01-01_t100,67,RETH,Rocket Pool ETH,rocket-pool-eth
+2018-01-01_t100,68,ENA,Ethena,ethena
+2018-01-01_t100,69,PNUT,Peanut the Squirrel,peanut-the-squirrel
+2018-01-01_t100,70,JUP,Jupiter,jupiter-exchange-solana
+2018-01-01_t100,71,METH,Mantle Staked Ether,mantle-staked-ether
+2018-01-01_t100,72,PYTH,Pyth Network,pyth-network
+2018-01-01_t100,73,WLD,Worldcoin,worldcoin-wld
+2018-01-01_t100,74,EZETH,Renzo Restaked ETH,renzo-restaked-eth
+2018-01-01_t100,75,SOLVBTC,Solv Protocol SolvBTC,solv-btc
+2018-01-01_t100,76,THETA,Theta Network,theta-token
+2018-01-01_t100,77,MKR,Maker,maker
+2018-01-01_t100,78,CBBTC,Coinbase Wrapped BTC,coinbase-wrapped-btc
+2018-01-01_t100,79,KCS,KuCoin,kucoin-shares
+2018-01-01_t100,80,ONDO,Ondo,ondo-finance
+2018-01-01_t100,81,RAY,Raydium,raydium
+2018-01-01_t100,82,BRETT,Brett,based-brett
+2018-01-01_t100,83,OM,MANTRA,mantra-dao
+2018-01-01_t100,84,BSV,Bitcoin SV,bitcoin-cash-sv
+2018-01-01_t100,85,ALGO,Algorand,algorand
+2018-01-01_t100,86,GT,Gate,gatechain-token
+2018-01-01_t100,87,AR,Arweave,arweave
+2018-01-01_t100,88,MSOL,Marinade Staked SOL,msol
+2018-01-01_t100,89,BEAM,Beam,beam-2
+2018-01-01_t100,90,GALA,GALA,gala
+2018-01-01_t100,91,EETH,ether.fi Staked ETH,ether-fi-staked-eth
+2018-01-01_t100,92,LDO,Lido DAO,lido-dao
+2018-01-01_t100,93,NEIRO,Neiro,neiro-3
+2018-01-01_t100,94,FTN,Fasttoken,fasttoken
+2018-01-01_t100,95,HNT,Helium,helium
+2018-01-01_t100,96,BTT,BitTorrent,bittorrent
+2018-01-01_t100,97,STRK,Starknet,starknet
+2018-01-01_t100,98,JASMY,JasmyCoin,jasmycoin
+2018-01-01_t100,99,LBTC,Lombard Staked BTC,lombard-staked-btc
+2018-01-01_t100,100,MATIC,Polygon,matic-network
+2019-01-01_t100,1,BTC,Bitcoin,bitcoin
+2019-01-01_t100,2,ETH,Ethereum,ethereum
+2019-01-01_t100,3,USDT,Tether,tether
+2019-01-01_t100,4,SOL,Solana,solana
+2019-01-01_t100,5,BNB,BNB,binancecoin
+2019-01-01_t100,6,DOGE,Dogecoin,dogecoin
+2019-01-01_t100,7,XRP,XRP,ripple
+2019-01-01_t100,8,USDC,USDC,usd-coin
+2019-01-01_t100,9,STETH,Lido Staked Ether,staked-ether
+2019-01-01_t100,10,ADA,Cardano,cardano
+2019-01-01_t100,11,SHIB,Shiba Inu,shiba-inu
+2019-01-01_t100,12,TRX,TRON,tron
+2019-01-01_t100,13,WSTETH,Wrapped stETH,wrapped-steth
+2019-01-01_t100,14,AVAX,Avalanche,avalanche-2
+2019-01-01_t100,15,TON,Toncoin,the-open-network
+2019-01-01_t100,16,WBTC,Wrapped Bitcoin,wrapped-bitcoin
+2019-01-01_t100,17,SUI,Sui,sui
+2019-01-01_t100,18,WETH,WETH,weth
+2019-01-01_t100,19,PEPE,Pepe,pepe
+2019-01-01_t100,20,LINK,Chainlink,chainlink
+2019-01-01_t100,21,BCH,Bitcoin Cash,bitcoin-cash
+2019-01-01_t100,22,DOT,Polkadot,polkadot
+2019-01-01_t100,23,LEO,LEO Token,leo-token
+2019-01-01_t100,24,NEAR,NEAR Protocol,near
+2019-01-01_t100,25,APT,Aptos,aptos
+2019-01-01_t100,26,WEETH,Wrapped eETH,wrapped-eeth
+2019-01-01_t100,27,LTC,Litecoin,litecoin
+2019-01-01_t100,28,UNI,Uniswap,uniswap
+2019-01-01_t100,29,USDS,USDS,usds
+2019-01-01_t100,30,CRO,Cronos,crypto-com-chain
+2019-01-01_t100,31,ICP,Internet Computer,internet-computer
+2019-01-01_t100,32,TAO,Bittensor,bittensor
+2019-01-01_t100,33,XLM,Stellar,stellar
+2019-01-01_t100,34,WIF,dogwifhat,dogwifcoin
+2019-01-01_t100,35,ETC,Ethereum Classic,ethereum-classic
+2019-01-01_t100,36,FET,Artificial Superintelligence Alliance,fetch-ai
+2019-01-01_t100,37,KAS,Kaspa,kaspa
+2019-01-01_t100,38,DAI,Dai,dai
+2019-01-01_t100,39,WBT,WhiteBIT Coin,whitebit
+2019-01-01_t100,40,POL,POL (ex-MATIC),polygon-ecosystem-token
+2019-01-01_t100,41,USDE,Ethena USDe,ethena-usde
+2019-01-01_t100,42,STX,Stacks,blockstack
+2019-01-01_t100,43,BONK,Bonk,bonk
+2019-01-01_t100,44,RENDER,Render,render-token
+2019-01-01_t100,45,XMR,Monero,monero
+2019-01-01_t100,46,OKB,OKB,okb
+2019-01-01_t100,47,AAVE,Aave,aave
+2019-01-01_t100,48,ARB,Arbitrum,arbitrum
+2019-01-01_t100,49,FIL,Filecoin,filecoin
+2019-01-01_t100,50,MNT,Mantle,mantle
+2019-01-01_t100,51,INJ,Injective,injective-protocol
+2019-01-01_t100,52,FLOKI,FLOKI,floki
+2019-01-01_t100,53,FDUSD,First Digital USD,first-digital-usd
+2019-01-01_t100,54,HBAR,Hedera,hedera-hashgraph
+2019-01-01_t100,55,VET,VeChain,vechain
+2019-01-01_t100,56,TIA,Celestia,celestia
+2019-01-01_t100,57,IMX,Immutable,immutable-x
+2019-01-01_t100,58,OP,Optimism,optimism
+2019-01-01_t100,59,FTM,Fantom,fantom
+2019-01-01_t100,60,ATOM,Cosmos Hub,cosmos
+2019-01-01_t100,61,BGB,Bitget Token,bitget-token
+2019-01-01_t100,62,RUNE,THORChain,thorchain
+2019-01-01_t100,63,WETH,Binance-Peg WETH,binance-peg-weth
+2019-01-01_t100,64,SEI,Sei,sei-network
+2019-01-01_t100,65,POPCAT,Popcat,popcat
+2019-01-01_t100,66,GRT,The Graph,the-graph
+2019-01-01_t100,67,RETH,Rocket Pool ETH,rocket-pool-eth
+2019-01-01_t100,68,ENA,Ethena,ethena
+2019-01-01_t100,69,PNUT,Peanut the Squirrel,peanut-the-squirrel
+2019-01-01_t100,70,JUP,Jupiter,jupiter-exchange-solana
+2019-01-01_t100,71,METH,Mantle Staked Ether,mantle-staked-ether
+2019-01-01_t100,72,PYTH,Pyth Network,pyth-network
+2019-01-01_t100,73,WLD,Worldcoin,worldcoin-wld
+2019-01-01_t100,74,EZETH,Renzo Restaked ETH,renzo-restaked-eth
+2019-01-01_t100,75,SOLVBTC,Solv Protocol SolvBTC,solv-btc
+2019-01-01_t100,76,THETA,Theta Network,theta-token
+2019-01-01_t100,77,MKR,Maker,maker
+2019-01-01_t100,78,CBBTC,Coinbase Wrapped BTC,coinbase-wrapped-btc
+2019-01-01_t100,79,KCS,KuCoin,kucoin-shares
+2019-01-01_t100,80,ONDO,Ondo,ondo-finance
+2019-01-01_t100,81,RAY,Raydium,raydium
+2019-01-01_t100,82,BRETT,Brett,based-brett
+2019-01-01_t100,83,OM,MANTRA,mantra-dao
+2019-01-01_t100,84,BSV,Bitcoin SV,bitcoin-cash-sv
+2019-01-01_t100,85,ALGO,Algorand,algorand
+2019-01-01_t100,86,GT,Gate,gatechain-token
+2019-01-01_t100,87,AR,Arweave,arweave
+2019-01-01_t100,88,MSOL,Marinade Staked SOL,msol
+2019-01-01_t100,89,BEAM,Beam,beam-2
+2019-01-01_t100,90,GALA,GALA,gala
+2019-01-01_t100,91,EETH,ether.fi Staked ETH,ether-fi-staked-eth
+2019-01-01_t100,92,LDO,Lido DAO,lido-dao
+2019-01-01_t100,93,NEIRO,Neiro,neiro-3
+2019-01-01_t100,94,FTN,Fasttoken,fasttoken
+2019-01-01_t100,95,HNT,Helium,helium
+2019-01-01_t100,96,BTT,BitTorrent,bittorrent
+2019-01-01_t100,97,STRK,Starknet,starknet
+2019-01-01_t100,98,JASMY,JasmyCoin,jasmycoin
+2019-01-01_t100,99,LBTC,Lombard Staked BTC,lombard-staked-btc
+2019-01-01_t100,100,MATIC,Polygon,matic-network
+2020-01-01_t100,1,BTC,Bitcoin,bitcoin
+2020-01-01_t100,2,ETH,Ethereum,ethereum
+2020-01-01_t100,3,USDT,Tether,tether
+2020-01-01_t100,4,SOL,Solana,solana
+2020-01-01_t100,5,BNB,BNB,binancecoin
+2020-01-01_t100,6,DOGE,Dogecoin,dogecoin
+2020-01-01_t100,7,XRP,XRP,ripple
+2020-01-01_t100,8,USDC,USDC,usd-coin
+2020-01-01_t100,9,STETH,Lido Staked Ether,staked-ether
+2020-01-01_t100,10,ADA,Cardano,cardano
+2020-01-01_t100,11,SHIB,Shiba Inu,shiba-inu
+2020-01-01_t100,12,TRX,TRON,tron
+2020-01-01_t100,13,WSTETH,Wrapped stETH,wrapped-steth
+2020-01-01_t100,14,AVAX,Avalanche,avalanche-2
+2020-01-01_t100,15,TON,Toncoin,the-open-network
+2020-01-01_t100,16,WBTC,Wrapped Bitcoin,wrapped-bitcoin
+2020-01-01_t100,17,SUI,Sui,sui
+2020-01-01_t100,18,WETH,WETH,weth
+2020-01-01_t100,19,PEPE,Pepe,pepe
+2020-01-01_t100,20,LINK,Chainlink,chainlink
+2020-01-01_t100,21,BCH,Bitcoin Cash,bitcoin-cash
+2020-01-01_t100,22,DOT,Polkadot,polkadot
+2020-01-01_t100,23,LEO,LEO Token,leo-token
+2020-01-01_t100,24,NEAR,NEAR Protocol,near
+2020-01-01_t100,25,APT,Aptos,aptos
+2020-01-01_t100,26,WEETH,Wrapped eETH,wrapped-eeth
+2020-01-01_t100,27,LTC,Litecoin,litecoin
+2020-01-01_t100,28,UNI,Uniswap,uniswap
+2020-01-01_t100,29,USDS,USDS,usds
+2020-01-01_t100,30,CRO,Cronos,crypto-com-chain
+2020-01-01_t100,31,ICP,Internet Computer,internet-computer
+2020-01-01_t100,32,TAO,Bittensor,bittensor
+2020-01-01_t100,33,XLM,Stellar,stellar
+2020-01-01_t100,34,WIF,dogwifhat,dogwifcoin
+2020-01-01_t100,35,ETC,Ethereum Classic,ethereum-classic
+2020-01-01_t100,36,FET,Artificial Superintelligence Alliance,fetch-ai
+2020-01-01_t100,37,KAS,Kaspa,kaspa
+2020-01-01_t100,38,DAI,Dai,dai
+2020-01-01_t100,39,WBT,WhiteBIT Coin,whitebit
+2020-01-01_t100,40,POL,POL (ex-MATIC),polygon-ecosystem-token
+2020-01-01_t100,41,USDE,Ethena USDe,ethena-usde
+2020-01-01_t100,42,STX,Stacks,blockstack
+2020-01-01_t100,43,BONK,Bonk,bonk
+2020-01-01_t100,44,RENDER,Render,render-token
+2020-01-01_t100,45,XMR,Monero,monero
+2020-01-01_t100,46,OKB,OKB,okb
+2020-01-01_t100,47,AAVE,Aave,aave
+2020-01-01_t100,48,ARB,Arbitrum,arbitrum
+2020-01-01_t100,49,FIL,Filecoin,filecoin
+2020-01-01_t100,50,MNT,Mantle,mantle
+2020-01-01_t100,51,INJ,Injective,injective-protocol
+2020-01-01_t100,52,FLOKI,FLOKI,floki
+2020-01-01_t100,53,FDUSD,First Digital USD,first-digital-usd
+2020-01-01_t100,54,HBAR,Hedera,hedera-hashgraph
+2020-01-01_t100,55,VET,VeChain,vechain
+2020-01-01_t100,56,TIA,Celestia,celestia
+2020-01-01_t100,57,IMX,Immutable,immutable-x
+2020-01-01_t100,58,OP,Optimism,optimism
+2020-01-01_t100,59,FTM,Fantom,fantom
+2020-01-01_t100,60,ATOM,Cosmos Hub,cosmos
+2020-01-01_t100,61,BGB,Bitget Token,bitget-token
+2020-01-01_t100,62,RUNE,THORChain,thorchain
+2020-01-01_t100,63,WETH,Binance-Peg WETH,binance-peg-weth
+2020-01-01_t100,64,SEI,Sei,sei-network
+2020-01-01_t100,65,POPCAT,Popcat,popcat
+2020-01-01_t100,66,GRT,The Graph,the-graph
+2020-01-01_t100,67,RETH,Rocket Pool ETH,rocket-pool-eth
+2020-01-01_t100,68,ENA,Ethena,ethena
+2020-01-01_t100,69,PNUT,Peanut the Squirrel,peanut-the-squirrel
+2020-01-01_t100,70,JUP,Jupiter,jupiter-exchange-solana
+2020-01-01_t100,71,METH,Mantle Staked Ether,mantle-staked-ether
+2020-01-01_t100,72,PYTH,Pyth Network,pyth-network
+2020-01-01_t100,73,WLD,Worldcoin,worldcoin-wld
+2020-01-01_t100,74,EZETH,Renzo Restaked ETH,renzo-restaked-eth
+2020-01-01_t100,75,SOLVBTC,Solv Protocol SolvBTC,solv-btc
+2020-01-01_t100,76,THETA,Theta Network,theta-token
+2020-01-01_t100,77,MKR,Maker,maker
+2020-01-01_t100,78,CBBTC,Coinbase Wrapped BTC,coinbase-wrapped-btc
+2020-01-01_t100,79,KCS,KuCoin,kucoin-shares
+2020-01-01_t100,80,ONDO,Ondo,ondo-finance
+2020-01-01_t100,81,RAY,Raydium,raydium
+2020-01-01_t100,82,BRETT,Brett,based-brett
+2020-01-01_t100,83,OM,MANTRA,mantra-dao
+2020-01-01_t100,84,BSV,Bitcoin SV,bitcoin-cash-sv
+2020-01-01_t100,85,ALGO,Algorand,algorand
+2020-01-01_t100,86,GT,Gate,gatechain-token
+2020-01-01_t100,87,AR,Arweave,arweave
+2020-01-01_t100,88,MSOL,Marinade Staked SOL,msol
+2020-01-01_t100,89,BEAM,Beam,beam-2
+2020-01-01_t100,90,GALA,GALA,gala
+2020-01-01_t100,91,EETH,ether.fi Staked ETH,ether-fi-staked-eth
+2020-01-01_t100,92,LDO,Lido DAO,lido-dao
+2020-01-01_t100,93,NEIRO,Neiro,neiro-3
+2020-01-01_t100,94,FTN,Fasttoken,fasttoken
+2020-01-01_t100,95,HNT,Helium,helium
+2020-01-01_t100,96,BTT,BitTorrent,bittorrent
+2020-01-01_t100,97,STRK,Starknet,starknet
+2020-01-01_t100,98,JASMY,JasmyCoin,jasmycoin
+2020-01-01_t100,99,LBTC,Lombard Staked BTC,lombard-staked-btc
+2020-01-01_t100,100,MATIC,Polygon,matic-network
+2021-01-01_t100,1,BTC,Bitcoin,bitcoin
+2021-01-01_t100,2,ETH,Ethereum,ethereum
+2021-01-01_t100,3,USDT,Tether,tether
+2021-01-01_t100,4,SOL,Solana,solana
+2021-01-01_t100,5,BNB,BNB,binancecoin
+2021-01-01_t100,6,DOGE,Dogecoin,dogecoin
+2021-01-01_t100,7,XRP,XRP,ripple
+2021-01-01_t100,8,USDC,USDC,usd-coin
+2021-01-01_t100,9,STETH,Lido Staked Ether,staked-ether
+2021-01-01_t100,10,ADA,Cardano,cardano
+2021-01-01_t100,11,SHIB,Shiba Inu,shiba-inu
+2021-01-01_t100,12,TRX,TRON,tron
+2021-01-01_t100,13,WSTETH,Wrapped stETH,wrapped-steth
+2021-01-01_t100,14,AVAX,Avalanche,avalanche-2
+2021-01-01_t100,15,TON,Toncoin,the-open-network
+2021-01-01_t100,16,WBTC,Wrapped Bitcoin,wrapped-bitcoin
+2021-01-01_t100,17,SUI,Sui,sui
+2021-01-01_t100,18,WETH,WETH,weth
+2021-01-01_t100,19,PEPE,Pepe,pepe
+2021-01-01_t100,20,LINK,Chainlink,chainlink
+2021-01-01_t100,21,BCH,Bitcoin Cash,bitcoin-cash
+2021-01-01_t100,22,DOT,Polkadot,polkadot
+2021-01-01_t100,23,LEO,LEO Token,leo-token
+2021-01-01_t100,24,NEAR,NEAR Protocol,near
+2021-01-01_t100,25,APT,Aptos,aptos
+2021-01-01_t100,26,WEETH,Wrapped eETH,wrapped-eeth
+2021-01-01_t100,27,LTC,Litecoin,litecoin
+2021-01-01_t100,28,UNI,Uniswap,uniswap
+2021-01-01_t100,29,USDS,USDS,usds
+2021-01-01_t100,30,CRO,Cronos,crypto-com-chain
+2021-01-01_t100,31,ICP,Internet Computer,internet-computer
+2021-01-01_t100,32,TAO,Bittensor,bittensor
+2021-01-01_t100,33,XLM,Stellar,stellar
+2021-01-01_t100,34,WIF,dogwifhat,dogwifcoin
+2021-01-01_t100,35,ETC,Ethereum Classic,ethereum-classic
+2021-01-01_t100,36,FET,Artificial Superintelligence Alliance,fetch-ai
+2021-01-01_t100,37,KAS,Kaspa,kaspa
+2021-01-01_t100,38,DAI,Dai,dai
+2021-01-01_t100,39,WBT,WhiteBIT Coin,whitebit
+2021-01-01_t100,40,POL,POL (ex-MATIC),polygon-ecosystem-token
+2021-01-01_t100,41,USDE,Ethena USDe,ethena-usde
+2021-01-01_t100,42,STX,Stacks,blockstack
+2021-01-01_t100,43,BONK,Bonk,bonk
+2021-01-01_t100,44,RENDER,Render,render-token
+2021-01-01_t100,45,XMR,Monero,monero
+2021-01-01_t100,46,OKB,OKB,okb
+2021-01-01_t100,47,AAVE,Aave,aave
+2021-01-01_t100,48,ARB,Arbitrum,arbitrum
+2021-01-01_t100,49,FIL,Filecoin,filecoin
+2021-01-01_t100,50,MNT,Mantle,mantle
+2021-01-01_t100,51,INJ,Injective,injective-protocol
+2021-01-01_t100,52,FLOKI,FLOKI,floki
+2021-01-01_t100,53,FDUSD,First Digital USD,first-digital-usd
+2021-01-01_t100,54,HBAR,Hedera,hedera-hashgraph
+2021-01-01_t100,55,VET,VeChain,vechain
+2021-01-01_t100,56,TIA,Celestia,celestia
+2021-01-01_t100,57,IMX,Immutable,immutable-x
+2021-01-01_t100,58,OP,Optimism,optimism
+2021-01-01_t100,59,FTM,Fantom,fantom
+2021-01-01_t100,60,ATOM,Cosmos Hub,cosmos
+2021-01-01_t100,61,BGB,Bitget Token,bitget-token
+2021-01-01_t100,62,RUNE,THORChain,thorchain
+2021-01-01_t100,63,WETH,Binance-Peg WETH,binance-peg-weth
+2021-01-01_t100,64,SEI,Sei,sei-network
+2021-01-01_t100,65,POPCAT,Popcat,popcat
+2021-01-01_t100,66,GRT,The Graph,the-graph
+2021-01-01_t100,67,RETH,Rocket Pool ETH,rocket-pool-eth
+2021-01-01_t100,68,ENA,Ethena,ethena
+2021-01-01_t100,69,PNUT,Peanut the Squirrel,peanut-the-squirrel
+2021-01-01_t100,70,JUP,Jupiter,jupiter-exchange-solana
+2021-01-01_t100,71,METH,Mantle Staked Ether,mantle-staked-ether
+2021-01-01_t100,72,PYTH,Pyth Network,pyth-network
+2021-01-01_t100,73,WLD,Worldcoin,worldcoin-wld
+2021-01-01_t100,74,EZETH,Renzo Restaked ETH,renzo-restaked-eth
+2021-01-01_t100,75,SOLVBTC,Solv Protocol SolvBTC,solv-btc
+2021-01-01_t100,76,THETA,Theta Network,theta-token
+2021-01-01_t100,77,MKR,Maker,maker
+2021-01-01_t100,78,CBBTC,Coinbase Wrapped BTC,coinbase-wrapped-btc
+2021-01-01_t100,79,KCS,KuCoin,kucoin-shares
+2021-01-01_t100,80,ONDO,Ondo,ondo-finance
+2021-01-01_t100,81,RAY,Raydium,raydium
+2021-01-01_t100,82,BRETT,Brett,based-brett
+2021-01-01_t100,83,OM,MANTRA,mantra-dao
+2021-01-01_t100,84,BSV,Bitcoin SV,bitcoin-cash-sv
+2021-01-01_t100,85,ALGO,Algorand,algorand
+2021-01-01_t100,86,GT,Gate,gatechain-token
+2021-01-01_t100,87,AR,Arweave,arweave
+2021-01-01_t100,88,MSOL,Marinade Staked SOL,msol
+2021-01-01_t100,89,BEAM,Beam,beam-2
+2021-01-01_t100,90,GALA,GALA,gala
+2021-01-01_t100,91,EETH,ether.fi Staked ETH,ether-fi-staked-eth
+2021-01-01_t100,92,LDO,Lido DAO,lido-dao
+2021-01-01_t100,93,NEIRO,Neiro,neiro-3
+2021-01-01_t100,94,FTN,Fasttoken,fasttoken
+2021-01-01_t100,95,HNT,Helium,helium
+2021-01-01_t100,96,BTT,BitTorrent,bittorrent
+2021-01-01_t100,97,STRK,Starknet,starknet
+2021-01-01_t100,98,JASMY,JasmyCoin,jasmycoin
+2021-01-01_t100,99,LBTC,Lombard Staked BTC,lombard-staked-btc
+2021-01-01_t100,100,MATIC,Polygon,matic-network
+2022-01-01_t100,1,BTC,Bitcoin,bitcoin
+2022-01-01_t100,2,ETH,Ethereum,ethereum
+2022-01-01_t100,3,USDT,Tether,tether
+2022-01-01_t100,4,SOL,Solana,solana
+2022-01-01_t100,5,BNB,BNB,binancecoin
+2022-01-01_t100,6,DOGE,Dogecoin,dogecoin
+2022-01-01_t100,7,XRP,XRP,ripple
+2022-01-01_t100,8,USDC,USDC,usd-coin
+2022-01-01_t100,9,STETH,Lido Staked Ether,staked-ether
+2022-01-01_t100,10,ADA,Cardano,cardano
+2022-01-01_t100,11,SHIB,Shiba Inu,shiba-inu
+2022-01-01_t100,12,TRX,TRON,tron
+2022-01-01_t100,13,WSTETH,Wrapped stETH,wrapped-steth
+2022-01-01_t100,14,AVAX,Avalanche,avalanche-2
+2022-01-01_t100,15,TON,Toncoin,the-open-network
+2022-01-01_t100,16,WBTC,Wrapped Bitcoin,wrapped-bitcoin
+2022-01-01_t100,17,SUI,Sui,sui
+2022-01-01_t100,18,WETH,WETH,weth
+2022-01-01_t100,19,PEPE,Pepe,pepe
+2022-01-01_t100,20,LINK,Chainlink,chainlink
+2022-01-01_t100,21,BCH,Bitcoin Cash,bitcoin-cash
+2022-01-01_t100,22,DOT,Polkadot,polkadot
+2022-01-01_t100,23,LEO,LEO Token,leo-token
+2022-01-01_t100,24,NEAR,NEAR Protocol,near
+2022-01-01_t100,25,APT,Aptos,aptos
+2022-01-01_t100,26,WEETH,Wrapped eETH,wrapped-eeth
+2022-01-01_t100,27,LTC,Litecoin,litecoin
+2022-01-01_t100,28,UNI,Uniswap,uniswap
+2022-01-01_t100,29,USDS,USDS,usds
+2022-01-01_t100,30,CRO,Cronos,crypto-com-chain
+2022-01-01_t100,31,ICP,Internet Computer,internet-computer
+2022-01-01_t100,32,TAO,Bittensor,bittensor
+2022-01-01_t100,33,XLM,Stellar,stellar
+2022-01-01_t100,34,WIF,dogwifhat,dogwifcoin
+2022-01-01_t100,35,ETC,Ethereum Classic,ethereum-classic
+2022-01-01_t100,36,FET,Artificial Superintelligence Alliance,fetch-ai
+2022-01-01_t100,37,KAS,Kaspa,kaspa
+2022-01-01_t100,38,DAI,Dai,dai
+2022-01-01_t100,39,WBT,WhiteBIT Coin,whitebit
+2022-01-01_t100,40,POL,POL (ex-MATIC),polygon-ecosystem-token
+2022-01-01_t100,41,USDE,Ethena USDe,ethena-usde
+2022-01-01_t100,42,STX,Stacks,blockstack
+2022-01-01_t100,43,BONK,Bonk,bonk
+2022-01-01_t100,44,RENDER,Render,render-token
+2022-01-01_t100,45,XMR,Monero,monero
+2022-01-01_t100,46,OKB,OKB,okb
+2022-01-01_t100,47,AAVE,Aave,aave
+2022-01-01_t100,48,ARB,Arbitrum,arbitrum
+2022-01-01_t100,49,FIL,Filecoin,filecoin
+2022-01-01_t100,50,MNT,Mantle,mantle
+2022-01-01_t100,51,INJ,Injective,injective-protocol
+2022-01-01_t100,52,FLOKI,FLOKI,floki
+2022-01-01_t100,53,FDUSD,First Digital USD,first-digital-usd
+2022-01-01_t100,54,HBAR,Hedera,hedera-hashgraph
+2022-01-01_t100,55,VET,VeChain,vechain
+2022-01-01_t100,56,TIA,Celestia,celestia
+2022-01-01_t100,57,IMX,Immutable,immutable-x
+2022-01-01_t100,58,OP,Optimism,optimism
+2022-01-01_t100,59,FTM,Fantom,fantom
+2022-01-01_t100,60,ATOM,Cosmos Hub,cosmos
+2022-01-01_t100,61,BGB,Bitget Token,bitget-token
+2022-01-01_t100,62,RUNE,THORChain,thorchain
+2022-01-01_t100,63,WETH,Binance-Peg WETH,binance-peg-weth
+2022-01-01_t100,64,SEI,Sei,sei-network
+2022-01-01_t100,65,POPCAT,Popcat,popcat
+2022-01-01_t100,66,GRT,The Graph,the-graph
+2022-01-01_t100,67,RETH,Rocket Pool ETH,rocket-pool-eth
+2022-01-01_t100,68,ENA,Ethena,ethena
+2022-01-01_t100,69,PNUT,Peanut the Squirrel,peanut-the-squirrel
+2022-01-01_t100,70,JUP,Jupiter,jupiter-exchange-solana
+2022-01-01_t100,71,METH,Mantle Staked Ether,mantle-staked-ether
+2022-01-01_t100,72,PYTH,Pyth Network,pyth-network
+2022-01-01_t100,73,WLD,Worldcoin,worldcoin-wld
+2022-01-01_t100,74,EZETH,Renzo Restaked ETH,renzo-restaked-eth
+2022-01-01_t100,75,SOLVBTC,Solv Protocol SolvBTC,solv-btc
+2022-01-01_t100,76,THETA,Theta Network,theta-token
+2022-01-01_t100,77,MKR,Maker,maker
+2022-01-01_t100,78,CBBTC,Coinbase Wrapped BTC,coinbase-wrapped-btc
+2022-01-01_t100,79,KCS,KuCoin,kucoin-shares
+2022-01-01_t100,80,ONDO,Ondo,ondo-finance
+2022-01-01_t100,81,RAY,Raydium,raydium
+2022-01-01_t100,82,BRETT,Brett,based-brett
+2022-01-01_t100,83,OM,MANTRA,mantra-dao
+2022-01-01_t100,84,BSV,Bitcoin SV,bitcoin-cash-sv
+2022-01-01_t100,85,ALGO,Algorand,algorand
+2022-01-01_t100,86,GT,Gate,gatechain-token
+2022-01-01_t100,87,AR,Arweave,arweave
+2022-01-01_t100,88,MSOL,Marinade Staked SOL,msol
+2022-01-01_t100,89,BEAM,Beam,beam-2
+2022-01-01_t100,90,GALA,GALA,gala
+2022-01-01_t100,91,EETH,ether.fi Staked ETH,ether-fi-staked-eth
+2022-01-01_t100,92,LDO,Lido DAO,lido-dao
+2022-01-01_t100,93,NEIRO,Neiro,neiro-3
+2022-01-01_t100,94,FTN,Fasttoken,fasttoken
+2022-01-01_t100,95,HNT,Helium,helium
+2022-01-01_t100,96,BTT,BitTorrent,bittorrent
+2022-01-01_t100,97,STRK,Starknet,starknet
+2022-01-01_t100,98,JASMY,JasmyCoin,jasmycoin
+2022-01-01_t100,99,LBTC,Lombard Staked BTC,lombard-staked-btc
+2022-01-01_t100,100,MATIC,Polygon,matic-network
